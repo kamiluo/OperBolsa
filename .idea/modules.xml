@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/OperBolsa.iml" filepath="$PROJECT_DIR$/.idea/OperBolsa.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/ejemplos python/ejemplos python/.idea/ejemplos python.iml" filepath="$USER_HOME$/Downloads/ejemplos python/ejemplos python/.idea/ejemplos python.iml" />
     </modules>
   </component>
 </project>
